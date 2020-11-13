@@ -1,5 +1,5 @@
 # html-only-number-input
-A possibility to only allow the user to put numbers in a html input field.
+A possibility to allow the user to put only numbers in a html input field.
 
 I made this because I could not find any solution for this in the internet.
 
